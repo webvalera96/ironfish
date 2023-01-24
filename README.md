@@ -11,6 +11,7 @@ Iron Fish is a Layer 1 blockchain that provides the strongest privacy guarantees
 See https://ironfish.network
 
 ## Developer Install
+hello
 
 The following steps should only be used to install if you are planning on contributing to the Iron Fish codebase. Otherwise, we **strongly** recommend using the installation methods here: https://ironfish.network/docs/onboarding/installation-iron-fish
 
